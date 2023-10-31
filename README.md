@@ -3,7 +3,7 @@
 # path_watcher
 **CTF TOOL:** 
 
-Monitor a directory for file creation and closing after writing events. It displays the contents of the file after it's written.
+Monitor a directory for files created and closed after writing events. It displays the contents of the file after it's written.
 This is useful for CTF's where you need to dynamically analyse a malware especially if the malware is creating and deleting a file (flag.txt) in microseconds.
 
 ***TAKE NOTE:*** 
