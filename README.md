@@ -8,7 +8,7 @@ This is useful for CTF's where you need to dynamically analyse a malware especia
 
 ***TAKE NOTE:*** 
 
-This program currently works for Linux OS at the moment, but I'll update this for windows too soon.
+This program currently only works for Linux OS, but I'll add support for windows  soon.
 
 ## HOW TO USE:
 
