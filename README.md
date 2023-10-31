@@ -1,4 +1,4 @@
-![path_watcher.png](path_watcher.png)
+![path_watcher.png](pathwatcher.png)
 
 # path_watcher
 **CTF TOOL:** 
